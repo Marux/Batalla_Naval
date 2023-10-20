@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BatallaNaval</string>
+    <string name="texto_boton_cerrar">Cerrar aplicación</string>
+    <string name="titulo_batalla_naval">Batalla Naval</string>
+    <string name="menuPrincipal">Menu Principal</string>
+    <string name="playerOne">Player 1</string>
+    <string name="playerTwo">Player 2</string>
+    <string name="counterStrike">Cantidad de Tiros:</string>
+
+    // botones de menu principal
+    <string name="iniciarJuego">Iniciar Juego</string>
+    <string name="instruccionJuego">Tutorial</string>
+    <string name="barcosJuego">Tipos de Barcos</string>
+    <string name="tutorial">tutorial</string>
+
+
+
+</resources>
