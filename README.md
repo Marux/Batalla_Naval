@@ -4,7 +4,7 @@
 
 ## Capturas de Pantalla
 
-_Inserta aquí algunas capturas de pantalla de tu juego (puedes agregar imágenes en tu repositorio de GitHub y vincularlas aquí)_
+![Captura de Pantalla del Juego](screenshot.png)
 
 ## Cómo Jugar
 
