@@ -48,4 +48,4 @@ Agradecemos a todos los jugadores que disfrutan de este juego y a la comunidad d
 
 ---
 
-© 2023 Victor Trimpai - git@github.com:Marux/Batalla_Naval.git
+© 2023 Victor Trimpai - https://github.com/Marux/Batalla_Naval/tree/main
