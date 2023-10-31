@@ -40,7 +40,7 @@ Este juego se distribuye bajo la Licencia MIT. Consulta el archivo [LICENSE](LIC
 
 ## Contacto
 
-Si tienes preguntas o comentarios, no dudes en ponerte en contacto con el equipo de desarrollo en victor.trimpai1987@gmail.com.
+Si tienes preguntas o comentarios, no dudes en ponerte en contacto con el equipo de desarrollo en [Instagram](https://www.instagram.com/vmtrdev/).
 
 ## Agradecimientos
 
